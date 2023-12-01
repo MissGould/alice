@@ -54,6 +54,7 @@ nav ul li a:hover::after{
 .header-text{
     margin-top: 20%;
     font-size: 30px;
+    color: white;
 }
 
 .header-text h1{
