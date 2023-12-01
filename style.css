@@ -63,9 +63,10 @@ nav ul li a:hover::after{
 }
 
 #image{
-    border-radius: 50%;
-    max-width: 40%;
+    border-radius: 80%;
+    max-width: 50%;
     height: auto;
+    right: 0;
     position: fixed;   
   }
   
