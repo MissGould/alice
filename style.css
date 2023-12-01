@@ -65,6 +65,8 @@ nav ul li a:hover::after{
 .image{
     clip-path: circle(35%);
     max-width: 30%;
+    height: auto;
+    right: 0;
     position: fixed;   
   }
   
