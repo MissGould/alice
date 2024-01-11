@@ -65,5 +65,20 @@ nav ul li a:hover::after{
     margin-top: 30px;
 }
 
+mark.change{
+    color: #8b0000;
 
-  
+    animation-name: changeColor;
+    animation-duration: .10;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+}
+
+@keyframes changeColor {
+    from {
+        color: white;
+    }
+    to {
+        color: #8b0000;
+    }
+}
