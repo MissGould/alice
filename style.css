@@ -69,7 +69,7 @@ h1 span{
     color: #8b0000;
 
     animation-name: changeColor;
-    animation-duration: .10;
+    animation-duration: .3;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in;
 }
