@@ -65,7 +65,7 @@ nav ul li a:hover::after{
     margin-top: 30px;
 }
 
-mark.change{
+p span{
     color: #8b0000;
 
     animation-name: changeColor;
