@@ -62,13 +62,5 @@ nav ul li a:hover::after{
     margin-top: 30px;
 }
 
-#image{
-    border-radius: 80%;
-    display: block;
-    width: 50%;
-    height: 50%;
-    margin-top: 1;
-    margin-left: auto;
-    margin-right: auto;  
-  }
+
   
